@@ -1,0 +1,190 @@
+{
+  "title": "Földrajzi segédanyagok",
+  "categories": [
+    {
+      "id": "astronomy",
+      "title": "Csillagászat és évszakok",
+      "icon": "sun"
+    },
+    {
+      "id": "geology",
+      "title": "Kőzetburok és felszín",
+      "icon": "mountain"
+    },
+    {
+      "id": "water",
+      "title": "Vizek és óceánok",
+      "icon": "water"
+    },
+    {
+      "id": "air",
+      "title": "Légkör és időjárás",
+      "icon": "wind"
+    },
+    {
+      "id": "society",
+      "title": "Ember és társadalom",
+      "icon": "globe"
+    },
+    {
+      "id": "maps",
+      "title": "Topográfia",
+      "icon": "map"
+    }
+  ],
+  "materials": [
+    {
+      "id": "napszimulator-magyar",
+      "title": "Napszimulátor",
+      "category": "astronomy",
+      "description": "A Nap helyzetének és a megvilágítás változásának szemléltetése.",
+      "url": "https://palgeri93.github.io/napszimulator-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "napmozgas-magyar",
+      "title": "A Nap látszólagos mozgása",
+      "category": "astronomy",
+      "description": "Napi és évszakos napjárás, földrajzi szélesség és dátum.",
+      "url": "https://palgeri93.github.io/napmozgas-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "evszakok-modell-magyar",
+      "title": "Évszakok és nappalhossz",
+      "category": "astronomy",
+      "description": "Forgatható földgömb, helyes megvilágítás, sarki nappal és éjszaka.",
+      "url": "https://palgeri93.github.io/evszakok-modell-magyar/?v=map-orientation-2",
+      "mode": "embed"
+    },
+    {
+      "id": "evszakok-magyar",
+      "title": "Évszakok",
+      "category": "astronomy",
+      "description": "Tengelyferdeség, besugárzás és az évszakok összefüggése.",
+      "url": "https://palgeri93.github.io/evszakok-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "nap-delelesi-szoge-magyar",
+      "title": "A Nap delelési szöge",
+      "category": "astronomy",
+      "description": "A Nap helyzete, valamint a nappalok és éjszakák hossza.",
+      "url": "https://palgeri93.github.io/nap-delelesi-szoge-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "fogyatkozasok-magyar",
+      "title": "Nap és holdfogyatkozások",
+      "category": "astronomy",
+      "description": "A Nap, a Föld és a Hold helyzete a fogyatkozások idején.",
+      "url": "https://palgeri93.github.io/fogyatkozasok-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "azimut-napmagassag-magyar",
+      "title": "Azimut és magasság",
+      "category": "astronomy",
+      "description": "A horizontális égi koordináták interaktív bemutatása.",
+      "url": "https://palgeri93.github.io/azimut-napmagassag-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "eggomb-magyar",
+      "title": "Éggömb",
+      "category": "astronomy",
+      "description": "Az égbolt látszólagos forgása és a csillagok napi útja.",
+      "url": "https://palgeri93.github.io/eggomb-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "sajat-naprendszer-magyar",
+      "title": "Saját Naprendszer",
+      "category": "astronomy",
+      "description": "Égitestek, tömegek és sebességek hatása a keringési pályákra.",
+      "url": "https://palgeri93.github.io/sajat-naprendszer-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "lemeztektonika-magyar",
+      "title": "Lemeztektonika",
+      "category": "geology",
+      "description": "A kőzetlemezek mozgása és kölcsönhatásai.",
+      "url": "https://palgeri93.github.io/lemeztektonika-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "vulkantipusok-magyar",
+      "title": "Vulkántípusok",
+      "category": "geology",
+      "description": "Salakkúpok, pajzsvulkánok, rétegvulkánok és lávadómok.",
+      "url": "https://palgeri93.github.io/vulkantipusok-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "gleccserek-magyar",
+      "title": "Gleccserek",
+      "category": "geology",
+      "description": "A jégárak felépítése, mozgása és felszínformáló munkája.",
+      "url": "https://palgeri93.github.io/gleccserek-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "lejtos-tomegmozgasok-magyar",
+      "title": "Lejtős tömegmozgások",
+      "category": "geology",
+      "description": "Omlások, csuszamlások és a lejtők stabilitását alakító tényezők.",
+      "url": "https://palgeri93.github.io/lejtos-tomegmozgasok-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "felszin-alatti-vizek-magyar",
+      "title": "Felszín alatti vizek",
+      "category": "water",
+      "description": "Beszivárgás, talajvíztükör és felszín alatti áramlás.",
+      "url": "https://palgeri93.github.io/felszin-alatti-vizek-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "arvizek-magyar",
+      "title": "Árvizek",
+      "category": "water",
+      "description": "Vízgyűjtők, vízhozam, árhullámok és árvízvédelem.",
+      "url": "https://palgeri93.github.io/arvizek-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "oceani-aramlasok-magyar",
+      "title": "Óceáni áramlások",
+      "category": "water",
+      "description": "A vízrészecskék útja a világóceán áramlási rendszerében.",
+      "url": "https://palgeri93.github.io/oceani-aramlasok-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "legkorzes-csapadek-magyar",
+      "title": "Légkörzés és csapadék",
+      "category": "air",
+      "description": "A légkör nagy mozgásrendszerei és a csapadék eloszlása.",
+      "url": "https://palgeri93.github.io/legkorzes-csapadek-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "vallasok-magyar",
+      "title": "Vallások történeti földrajza",
+      "category": "society",
+      "description": "A nagy vallások történelmi elterjedésének szemléltetése.",
+      "url": "https://palgeri93.github.io/vallasok-magyar/",
+      "mode": "embed"
+    },
+    {
+      "id": "terkepmuhely",
+      "title": "Térképműhely",
+      "category": "maps",
+      "description": "Topográfiai gyakorlás, saját térképlapok és online dolgozatok.",
+      "url": "https://palgeri93.alwaysdata.net/topografia/",
+      "mode": "navigate",
+      "notice": "A Térképműhely bejelentkezésvédelme nem engedélyezi a beágyazást. A gomb ugyanebben a böngészőlapon nyitja meg az alkalmazást; a Vissza gombbal visszatérhetsz a gyűjteményhez."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Kentucky Egyetem – földtani animációk",
+    "status": "Igazolt fájlegyezés • 9 további modul",
+    "description": "Az Educational Materials oldalon 14 Flash-modul szerepel. Ezek közül 5 már megtalálható a magyar gyűjteményben: lemeztektonika, felszín alatti vizek, árvizek, tömegmozgások és gleccserek. A module13swf.swf az egyetemi szerveren bájtról bájtra azonos a helyi gleccserfájllal. Az eredeti készítő Smoothstone, a kiadó Houghton Mifflin; az egyetem ezek gyűjtőhelye.",
+    "more": "Kőzetkörforgás, ásványok, magmás kőzetek, mállás, üledékes kőzetek, metamorf kőzetek, vetők és redők, a Föld belső szerkezete, tengerpartok.",
+    "url": "https://ees.as.uky.edu/educational-materials"
+  },
+  {
+    "title": "Nebraska Egyetem – Astronomy Education",
+    "status": "Eredeti szerzői gyűjtemény",
+    "description": "A NAAP és ClassAction csillagászati animációinak közös listája. A Nap látszólagos mozgásának eredeti sunmotions.swf fájlja a NAAP gyűjteményében szerepel. A honlap Ruffle emulációval is kínál animációkat.",
+    "more": "Holdfázisok, árapály, bolygópályák, Kepler-törvények, napjárás, csillagászati koordináták, fogyatkozások és exobolygók.",
+    "url": "https://astro.unl.edu/animationsLinks.html"
+  },
+  {
+    "title": "PhET – University of Colorado Boulder",
+    "status": "Eredeti szerzői oldal",
+    "description": "A Saját Naprendszer a PhET My Solar System szimulációja. A régi Flash-változat adatlapjáról a PhET többi szimulációja is elérhető; a projektnek korszerű HTML5-változata is van.",
+    "more": "Gravitáció és keringési pályák, Kepler-törvények, üvegházhatás, hullámok és további természettudományos modellek.",
+    "url": "https://phet.colorado.edu/en/simulations/legacy/my-solar-system"
+  },
+  {
+    "title": "La main à la pâte – Les saisons",
+    "status": "Az évszakmodell eredeti francia forrása",
+    "description": "A korábbi saisons.swf modell a francia La main à la pâte oktatási projektből származik. A Les saisons adatlapja a Föld keringését, a dátum és a nézőpont változtatását mutatja be. A honlap további természettudományos segédanyagokat is kínál.",
+    "more": "Éghajlat, tengerszint-emelkedés, Nap–Föld–Hold rendszer és természettudományos kísérletek.",
+    "url": "https://fondation-lamap.org/ressource-multimedia/les-saisons"
+  },
+  {
+    "title": "Doğan Aydal – földtani animációgyűjtemény",
+    "status": "További gyűjtőhely • nem igazolt eredeti letöltési hely",
+    "description": "Sok SWF-et és az animációkról készült MP4-videókat tartalmazó, török elnevezésű gyűjtemény. Másolatokat is tartalmaz, ezért ez nem tekinthető minden felsorolt anyag eredeti szerzői oldalának.",
+    "more": "Vetődések, hegységképződés, vulkanizmus, földrengések, gleccserek, folyók és üledékképződés.",
+    "url": "https://www.doganaydal.com/Egitim/DersNotlarim/96"
+  }
+]
